@@ -105,3 +105,5 @@
 |2 |Mid-Summer Madness |08/13/2005 |5 K |32:47 |10:35|
 |1 |SallieMae Freedom 5 Mile Run |07/04/2005 |5 Mile |55:55.7 |11:11|
 
+![running picture](http://blogs.thedeveloperside.com/wp-content/uploads/2016/08/499970_207883332_Medium.jpg)
+
