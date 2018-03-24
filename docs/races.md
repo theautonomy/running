@@ -8,7 +8,7 @@
 |TBD |2018 Eagle Creek Trail Marathon |08/04/2018 |Marathon | | |
 |TBD (registered) |2018 Boston Marathon |04/16/2018 |Marathon | | |
 |TBD |2018 Circular Logic Marathon |04/07/2018 |Marathon | | |
-|97 (Full No. 51) |2018 Carmel Marathon |03/31/2018 |Marathon | | |
+|97 (Full No. 52) |2018 Carmel Marathon |03/31/2018 |Marathon | | |
 |96 (Half No. 24) |2018 Indy Runners Sam Costa Half Marathon |03/24/2018 |Half Marathon |1:35:52|7:20|
 |95 |2017 Jackson County Ultra-marathon Trail Run |12/02/2017 |50 M |13:39:01 |16:22|
 |94 |2017 Monumental Marathon |11/04/2017 |Marathon |4:03:55 |9:19|
