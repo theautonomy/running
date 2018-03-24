@@ -8,9 +8,9 @@
 |TBD |2018 Eagle Creek Trail Marathon |08/04/2018 |Marathon | | |
 |TBD (registered) |2018 Boston Marathon |04/16/2018 |Marathon | | |
 |TBD |2018 Circular Logic Marathon |04/07/2018 |Marathon | | |
-|TBD (registered) |2018 Carmel Marathon |03/31/2018 |Marathon | | |
-|TBD (registered) |2018 Indy Runners Sam Costa Half Marathon |03/24/2018 |Half Marathon |1:35:52|7:20|
-|95 (Full No. 51) |2017 Jackson County Ultra-marathon Trail Run |12/02/2017 |50 M |13:39:01 |16:22|
+|97 (Full No. 51) |2018 Carmel Marathon |03/31/2018 |Marathon | | |
+|96 (Half No. 24) |2018 Indy Runners Sam Costa Half Marathon |03/24/2018 |Half Marathon |1:35:52|7:20|
+|95 |2017 Jackson County Ultra-marathon Trail Run |12/02/2017 |50 M |13:39:01 |16:22|
 |94 |2017 Monumental Marathon |11/04/2017 |Marathon |4:03:55 |9:19|
 |93 |2017 Beijing Marathon |09/17/2017 |Marathon |4:57:00 |11:20|
 |92 |2017 BQ.2 |09/09/2017 |Marathon |3:18:12 |7:34|
@@ -18,7 +18,7 @@
 |90 |2017 Indiana Trail |04/29/2017 |50 Miles |11:22:37 |13:31|
 |89 |2017 Carmel Marathon |04/22/2017 |Marathon |4:08:57 |9:31|
 |88 |2017 Boston Marathon |04/17/2017 |Marathon |3:38:25 |8:20|
-|86 (Half 23) |2017 Indy Runners Sam Costa Half Marathon |03/25/2017 |Half Marathon |1:42:12 |7:49|
+|86 |2017 Indy Runners Sam Costa Half Marathon |03/25/2017 |Half Marathon |1:42:12 |7:49|
 |85 |2016 Monumental Marathon |11/05/2016 |Marathon |5:35:00 |12:48|
 |84 |2016 Twin Cities Marathon |10/09/2016 |Marathon |3:54:28 |8:57|
 |83 |2016 Mill Race Marathon |09/24/2016 |Marathon |3:56:36 |9:02|
