@@ -4,6 +4,7 @@
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
 |TBD (registered) |2018 Monumental Marathon |11/03/2018 |Marathon | | |
+|TBD (registere by 05/31) |Purdue Boilermaker Half-Marathon |10/13/2018 |Half Marathon | | |
 |TBD (Register by 06/30)|2018 Mill Race Marathon |09/22/2018 |Marathon | | |
 |TBD (Register by 05/28)|2018 Eagle Creek Trail Marathon |08/04/2018 |Marathon | | |
 |98 (Full No. 53) |2018 Boston Marathon |04/16/2018 |Marathon | | |
