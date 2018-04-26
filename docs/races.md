@@ -8,7 +8,7 @@
 |TBD (Register by 06/30)|2018 Mill Race Marathon |09/22/2018 |Marathon | | |
 |TBD (Register by 05/28)|2018 Eagle Creek Trail Marathon |08/04/2018 |Marathon | | |
 |TBD ( ) | Dances With Dirt Gnaw Bone | 05/19/2018 | Marathon | | |
-|98 (Full No. 53) |2018 Boston Marathon |04/16/2018 |Marathon | | |
+|98 (Full No. 53) |2018 Boston Marathon |04/16/2018 |Marathon | 3:45:30 | 8:37 |
 |97 |2018 Carmel Marathon |03/31/2018 |Marathon | 3:45:00 | 8:36 |
 |96 (Half No. 24) |2018 Indy Runners Sam Costa Half Marathon |03/24/2018 |Half Marathon |1:35:52|7:20|
 |95 |2017 Jackson County Ultra-marathon Trail Run |12/02/2017 |50 M |13:39:01 |16:22|
