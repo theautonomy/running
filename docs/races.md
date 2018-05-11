@@ -1,5 +1,5 @@
 
-## Race Log
+## All it takes is all you get
 
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
