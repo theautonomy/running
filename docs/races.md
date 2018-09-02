@@ -7,8 +7,7 @@
 |TBD |2018 XXX Marathon |11/xx/2018 | Marathon || |
 |TBD (registered) |2018 Monumental Marathon |11/03/2018 |Marathon | | |
 |TBD |2018 Tecumseh Trail Marathon |10/27/2018 |Marathon | |  |
-|TBD (registere by 05/31) |Purdue Boilermaker Half-Marathon |10/13/2018 |Half Marathon | | |
-|TBD |2018 Indiana Trail |10/13/2018 |100K |  |  |
+|TBD (registered) |2018 Indiana Trail |10/13/2018 |100K |  |  |
 |TBD |2018 Indy Half Marathon |10/06/2018 |Half Marathon |  |  |
 |100 |2018 Mill Race Marathon |09/22/2018 |Marathon | | |
 |99 |2018 BQ.2 |09/08/2018 |Marathon |  |  |
