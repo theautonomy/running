@@ -10,8 +10,8 @@
 |TBD (registered) |2018 Indiana Trail |10/13/2018 |100K |  |  |
 |TBD |2018 Indy Half Marathon |10/06/2018 |Half Marathon |  |  |
 |100 |2018 Mill Race Marathon |09/22/2018 |Marathon | | |
-|99 |2018 BQ.2 |09/08/2018 |Marathon |  |  |
-|98 (Full No. 53) |2018 Boston Marathon |04/16/2018 |Marathon | 3:45:30 | 8:37 |
+|99 (Full No. 54) |2018 BQ.2 |09/08/2018 |Marathon | 3:09:41 | 7:15 |
+|98 |2018 Boston Marathon |04/16/2018 |Marathon | 3:45:30 | 8:37 |
 |97 |2018 Carmel Marathon |03/31/2018 |Marathon | 3:45:00 | 8:36 |
 |96 (Half No. 24) |2018 Indy Runners Sam Costa Half Marathon |03/24/2018 |Half Marathon |1:35:52|7:20|
 |95 |2017 Jackson County Ultra-marathon Trail Run |12/02/2017 |50 M |13:39:01 |16:22|
