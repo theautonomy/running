@@ -8,7 +8,6 @@
 |TBD (registered) |2018 Monumental Marathon |11/03/2018 |Marathon | | |
 |TBD |2018 Tecumseh Trail Marathon |10/27/2018 |Marathon | |  |
 |TBD (registered) |2018 Indiana Trail |10/13/2018 |100K |  |  |
-|TBD |2018 Indy Half Marathon |10/06/2018 |Half Marathon |  |  |
 |100 (Full No. 55) |2018 Mill Race Marathon |09/22/2018 |Marathon | 3:19:07 | 7:36 |
 |99 |2018 BQ.2 |09/08/2018 |Marathon | 3:09:41 | 7:15 |
 |98 |2018 Boston Marathon |04/16/2018 |Marathon | 3:45:30 | 8:37 |
