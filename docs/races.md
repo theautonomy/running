@@ -5,7 +5,6 @@
 |--- |---  |--- |--- |--- |--- |
 |TBD |2018 Jackson County Ultra-marathon Trail Run |12/01/2018 |50 M || |
 |TBD |2018 Shanghai Marathon |11/18/2018 | Marathon || |
-|TBD (registered) |2018 Monumental Marathon |11/03/2018 |Marathon | | |
 |TBD (registered) |2018 Tecumseh Trail Marathon |10/27/2018 |Marathon | |  |
 |TBD (registered) |2018 Indiana Trail |10/13/2018 |100K |  |  |
 |100 (Full No. 55) |2018 Mill Race Marathon |09/22/2018 |Marathon | 3:19:07 | 7:36 |
