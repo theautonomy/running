@@ -3,7 +3,7 @@
 
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
-|TBD |2018 Jackson County Ultra-marathon Trail Run |12/01/2018 |50 M || |
+|TBD |2018 Jackson County Ultra-marathon Trail Run |12/01/2018 |50K || |
 |TBD |2018 Shanghai Marathon |11/18/2018 | Marathon || |
 |TBD (registered) |2018 Tecumseh Trail Marathon |10/27/2018 |Marathon | |  |
 |101 (Full No. 56) |2018 Indiana Trail |10/13/2018 |100K | 17:10:59 | 16:37 |
