@@ -3,6 +3,8 @@
 
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
+|TBD  |2019 Circular Logic Marathon |04/06/2019 |Marathon | |  |
+|TBD (registered) |2019 Carmel Marathon |03/30/2019 |Marathon | |  |
 |104 (Full No. 59) |2018 Jackson County Ultra-marathon Trail Run |12/01/2018 |50K | 8:39:35 | 16:30 |
 |103 |2018 Shanghai Marathon |11/18/2018 | Marathon | 4:07:55 | 9:28 |
 |102 |2018 Tecumseh Trail Marathon |10/27/2018 |Marathon |7:20:00 | 16:48 |
