@@ -3,6 +3,9 @@
 
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
+|TBD |2019 Monumental Marathon |11/09/2019 |Marathon | | |
+|TBD |2019 Mill Race Marathon |09/28/2019 |Marathon |  |  |
+|TBD  |2019 Air Force Marathon |09/21/2019 |Marathon | |  |
 |TBD  |2019 Circular Logic Marathon |04/06/2019 |Marathon | |  |
 |TBD (registered) |2019 Carmel Marathon |03/30/2019 |Marathon | |  |
 |104 (Full No. 59) |2018 Jackson County Ultra-marathon Trail Run |12/01/2018 |50K | 8:39:35 | 16:30 |
