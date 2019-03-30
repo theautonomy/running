@@ -11,8 +11,8 @@
 |TBD |2019 Eagle Creek Trail Marathon |08/03/2017 |Marathon |  | |
 |TBD |2019 Dance with Dirt Gnaw Bone Marathon |05/18/2017 |Marathon |  | |
 |TBD (registered)|2019 Circular Logic Marathon |04/06/2019 |Marathon | |  |
-|TBD (registered) |2019 Carmel Marathon |03/30/2019 |Marathon | |  |
-|104 (Full No. 59) |2018 Jackson County Ultra-marathon Trail Run |12/01/2018 |50K | 8:39:35 | 16:30 |
+|105 (Full No. 60)|2019 Carmel Marathon |03/30/2019 |Marathon | 3:49:25| 8:46 |
+|104 |2018 Jackson County Ultra-marathon Trail Run |12/01/2018 |50K | 8:39:35 | 16:30 |
 |103 |2018 Shanghai Marathon |11/18/2018 | Marathon | 4:07:55 | 9:28 |
 |102 |2018 Tecumseh Trail Marathon |10/27/2018 |Marathon |7:20:00 | 16:48 |
 |101 |2018 Indiana Trail |10/13/2018 |100K | 17:10:59 | 16:37 |
