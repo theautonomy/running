@@ -4,8 +4,8 @@
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
 |TBD (registered)|2019 Monumental Marathon |11/09/2019 |Marathon | | |
-|TBD |2019 New York City Marathon |11/03/2019 |Marathon |  |  |
-|TBD |2019 Mill Race Marathon |09/28/2019 |Marathon |  |  |
+|TBD (registered)|2019 New York City Marathon |11/03/2019 |Marathon |  |  |
+|TBD (registered)|2019 Mill Race Marathon |09/28/2019 |Marathon |  |  |
 |TBD |2019 Air Force Marathon |09/21/2019 |Marathon | |  |
 |TBD |2019 BQ.2 |09/14/2019 |Marathon | |  |
 |TBD |2019 Eagle Creek Trail Marathon |08/03/2017 |Marathon |  | |
