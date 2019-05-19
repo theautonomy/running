@@ -6,11 +6,10 @@
 |TBD (registered)|2019 Monumental Marathon |11/09/2019 |Marathon | | |
 |TBD (registered)|2019 New York City Marathon |11/03/2019 |Marathon |  |  |
 |TBD (registered)|2019 Mill Race Marathon |09/28/2019 |Marathon |  |  |
-|TBD |2019 Air Force Marathon |09/21/2019 |Marathon | |  |
 |TBD |2019 BQ.2 |09/14/2019 |Marathon | |  |
 |TBD |2019 Eagle Creek Trail Marathon |08/03/2017 |Marathon |  | |
-|TBD |2019 Dance with Dirt Gnaw Bone Marathon |05/18/2017 |Marathon |  | |
-|105 (Full No. 60)|2019 Carmel Marathon |03/30/2019 |Marathon | 3:49:25| 8:46 |
+|106 (Full No. 61) |2019 Dance with Dirt Gnaw Bone Marathon |05/18/2017 |Marathon | 6:14:03 | 14:16 |
+|105 |2019 Carmel Marathon |03/30/2019 |Marathon | 3:49:25| 8:46 |
 |104 |2018 Jackson County Ultra-marathon Trail Run |12/01/2018 |50K | 8:39:35 | 16:30 |
 |103 |2018 Shanghai Marathon |11/18/2018 | Marathon | 4:07:55 | 9:28 |
 |102 |2018 Tecumseh Trail Marathon |10/27/2018 |Marathon |7:20:00 | 16:48 |
