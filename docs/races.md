@@ -8,7 +8,8 @@
 |TBD (registered)|2019 Mill Race Marathon |09/28/2019 |Marathon |  |  |
 |TBD |2019 BQ.2 |09/14/2019 |Marathon | |  |
 |TBD |2019 Eagle Creek Trail Marathon |08/03/2017 |Marathon |  | |
-|106 (Full No. 61) |2019 Dance with Dirt Gnaw Bone Marathon |05/18/2017 |Marathon | 6:14:03 | 14:16 |
+|107 (Full No. 61) |2019 Dance with Dirt Gnaw Bone Marathon |05/18/2017 |Marathon | 6:14:03 | 14:16 |
+|106 (Half No. 25)|OneAmerica 500 Festival Mini-Marathon – 2019 Half Marathon |05/04/2019 |Half Marathon |1:55:57 |8:50|
 |105 |2019 Carmel Marathon |03/30/2019 |Marathon | 3:49:25| 8:46 |
 |104 |2018 Jackson County Ultra-marathon Trail Run |12/01/2018 |50K | 8:39:35 | 16:30 |
 |103 |2018 Shanghai Marathon |11/18/2018 | Marathon | 4:07:55 | 9:28 |
@@ -18,7 +19,7 @@
 |99 |2018 BQ.2 |09/08/2018 |Marathon | 3:09:41 | 7:15 |
 |98 |2018 Boston Marathon |04/16/2018 |Marathon | 3:45:30 | 8:37 |
 |97 |2018 Carmel Marathon |03/31/2018 |Marathon | 3:45:00 | 8:36 |
-|96 (Half No. 24) |2018 Indy Runners Sam Costa Half Marathon |03/24/2018 |Half Marathon |1:35:52|7:20|
+|96 |2018 Indy Runners Sam Costa Half Marathon |03/24/2018 |Half Marathon |1:35:52|7:20|
 |95 |2017 Jackson County Ultra-marathon Trail Run |12/02/2017 |50 M |13:39:01 |16:22|
 |94 |2017 Monumental Marathon |11/04/2017 |Marathon |4:03:55 |9:19|
 |93 |2017 Beijing Marathon |09/17/2017 |Marathon |4:57:00 |11:20|
