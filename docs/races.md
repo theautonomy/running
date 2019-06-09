@@ -6,7 +6,7 @@
 |TBD (registered)|2019 Monumental Marathon |11/09/2019 |Marathon | | |
 |TBD (registered)|2019 New York City Marathon |11/03/2019 |Marathon |  |  |
 |TBD (registered)|2019 Mill Race Marathon |09/28/2019 |Marathon |  |  |
-|TBD |2019 BQ.2 |09/14/2019 |Marathon | |  |
+|TBD (registered)|2019 BQ.2 |09/14/2019 |Marathon | |  |
 |TBD |2019 Eagle Creek Trail Marathon |08/03/2017 |Marathon |  | |
 |107 (Full No. 61) |2019 Dance with Dirt Gnaw Bone Marathon |05/18/2017 |Marathon | 6:14:03 | 14:16 |
 |106 (Half No. 25)|OneAmerica 500 Festival Mini-Marathon – 2019 Half Marathon |05/04/2019 |Half Marathon |1:55:57 |8:50|
