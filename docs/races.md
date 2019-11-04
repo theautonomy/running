@@ -4,8 +4,8 @@
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
 |TBD (registered)|2019 Monumental Marathon |11/09/2019 |Marathon | | |
-|TBD (registered)|2019 New York City Marathon |11/03/2019 |Marathon |  |  |
-|110 (Full No. 64)|2019 Mill Race Marathon |09/28/2019 |Marathon | 3:17:06 | 7:32 |
+|111 (Full No. 65)|2019 New York City Marathon |11/03/2019 |Marathon | 3:05:01 | 7:04 |
+|110 |2019 Mill Race Marathon |09/28/2019 |Marathon | 3:17:06 | 7:32 |
 |109 |2019 BQ.2 |09/14/2019 |Marathon | 3:11:33 | 7:19 |
 |108 |2019 Beaver Chase Marathon |08/10/2017 |Marathon | 3:54:51 | 8:58 |
 |107 |2019 Dance with Dirt Gnaw Bone Marathon |05/18/2017 |Marathon | 6:14:03 | 14:16 |
