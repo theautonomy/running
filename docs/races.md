@@ -3,8 +3,8 @@
 
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
-|TBD (registered)|2019 Monumental Marathon |11/09/2019 |Marathon | | |
-|111 (Full No. 65)|2019 New York City Marathon |11/03/2019 |Marathon | 3:05:01 | 7:04 |
+|112 (Full No. 66)|2019 Monumental Marathon |11/09/2019 |Marathon | 2:57:46 | 6:48 |
+|111 |2019 New York City Marathon |11/03/2019 |Marathon | 3:05:01 | 7:04 |
 |110 |2019 Mill Race Marathon |09/28/2019 |Marathon | 3:17:06 | 7:32 |
 |109 |2019 BQ.2 |09/14/2019 |Marathon | 3:11:33 | 7:19 |
 |108 |2019 Beaver Chase Marathon |08/10/2017 |Marathon | 3:54:51 | 8:58 |
