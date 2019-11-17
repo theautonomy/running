@@ -89,7 +89,7 @@
 | 27 | OneAmerica 500 Festival Mini-Marathon 2009 Half Marathon | 05/02/2009 | Half Marathon | 1:40:01 | 7:39 |
 | 26 | 2009 Indy Runners Sam Costa Half Marathon | 03/28/2009 | Half Marathon | 1:40:17 | 7:40 |
 | 25 | Mini-Marathon 10K Training Run 2009 | 03/07/2009 | 10 K | 46:27 | 7:28 |
-| 24 (F1) | 2008 Indianapolis Monumental Marathon | 11/01/2008 | Marathon | 3:50:22 | 8:48 |
+| 24 (Full No. 1) | 2008 Indianapolis Monumental Marathon | 11/01/2008 | Marathon | 3:50:22 | 8:48 |
 | 23 | 13th Annual Indianapolis Marathon and Half Marathon | 10/18/2008 | Half Marathon | 1:51:22 | 8:29 |
 | 22 | OneAmerica 500 Festival Mini-Marathon 2008 Half Marathon | 05/03/2008 | Half Marathon | 1:40:46 | 7:42 |
 | 21 | 2008 Mini-Marathon 15K Training Run | 04/12/2008 | 15 K | 1:11:07 | 7:38 |
@@ -106,12 +106,13 @@
 | 10 | Double Eagle Run & Walk | 09/30/2006 | 10 Mile | 1:26:03.2 | 8:36 |
 | 9 |  2006 DICK LUGAR RUN & WALK | 09/16/2006 | 10 K | 49:36.6 | 7:59 |
 | 8 |  Beyond the Badge: Jason Baker Public Safety Scholarship Run | 09/10/2006 | 5 Mile | 41:00 | 8:12 |
-| 7 (H1) | 2006 OneAmerica 500 Festival Mini-Marathon 2006 Half Marathon | 05/06/2006 | Half Marathon | 1:57:41 | 8:59 |
+| 7 (Half No. 1) | 2006 OneAmerica 500 Festival Mini-Marathon 2006 Half Marathon | 05/06/2006 | Half Marathon | 1:57:41 | 8:59 |
 | 6 |  2006 Mini-Marathon 15K Training Run | 04/15/2006 | 15 K | 1:25:39 | 9:12 |
 | 5 |  2006 Mini-Marathon 10K Training Run | 03/04/2006 | 10 K | 57:40 | 9:18 |
 | 4 |  Potters Bridge Step N’ Stride 10K Run | 11/12/2005 | 10 K | 1:09:13.4 | 11:08 |
 | 3 |  Jason M. Baker Scholarship 5 Mile Run | 09/11/2005 | 5 Mile | 50:08 | 10:02 |
 | 2 |  Mid-Summer Madness | 08/13/2005 | 5 K | 32:47 | 10:35 |
 | 1 |  SallieMae Freedom 5 Mile Run | 07/04/2005 | 5 Mile | 55:55.7 | 11:11 |
+
 
 
