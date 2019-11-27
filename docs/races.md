@@ -3,13 +3,16 @@
 |--- |---  |--- |--- |--- |--- |
 | TBD | 2020 Monumental Marathon | 11/07/2020 | Marathon |  |  |
 | TBD (Tentative) | 2020 Chicago Marathon | 10/11/2020 | Marathon |  |  |
+| TBD | 2020 Dance with Dirt Gnaw Bone Marathon | 05/16/2020 | Marathon |  |  |
+| TBD (registered)| 2020 Spring Chance BQ.2 Marathon | 04/18/2020 | Marathon | | |
+| TBD (registered)| 2020 Milwaukee Marathon | 04/11/2020 | Marathon | | |
 | TBD (registered)| 2020 Carmel Marathon | 04/04/2020 | Marathon | | |
 | 112 (Full No. 66)| 2019 Monumental Marathon | 11/09/2019 | Marathon | 2:57:46 | 6:48 |
 | 111 | 2019 New York City Marathon | 11/03/2019 | Marathon | 3:05:01 | 7:04 |
 | 110 | 2019 Mill Race Marathon | 09/28/2019 | Marathon | 3:17:06 | 7:32 |
 | 109 | 2019 BQ.2 | 09/14/2019 | Marathon | 3:11:33 | 7:19 |
-| 108 | 2019 Beaver Chase Marathon | 08/10/2017 | Marathon | 3:54:51 | 8:58 |
-| 107 | 2019 Dance with Dirt Gnaw Bone Marathon | 05/18/2017 | Marathon | 6:14:03 | 14:16 |
+| 108 | 2019 Beaver Chase Marathon | 08/10/2019 | Marathon | 3:54:51 | 8:58 |
+| 107 | 2019 Dance with Dirt Gnaw Bone Marathon | 05/18/2019 | Marathon | 6:14:03 | 14:16 |
 | 106 (Half No. 25)| OneAmerica 500 Festival Mini-Marathon 2019 Half Marathon | 05/04/2019 | Half Marathon | 1:55:57 | 8:50 |
 | 105 | 2019 Carmel Marathon | 03/30/2019 | Marathon | 3:49:25 | 8:46 |
 | 104 | 2018 Jackson County Ultra-marathon Trail Run | 12/01/2018 | 50K | 8:39:35 | 16:30 |
