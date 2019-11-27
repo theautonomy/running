@@ -3,9 +3,13 @@
 |--- |---  |--- |--- |--- |--- |
 | TBD | 2020 Monumental Marathon | 11/07/2020 | Marathon |  |  |
 | TBD (Tentative) | 2020 Chicago Marathon | 10/11/2020 | Marathon |  |  |
+| TBD | 2020 Mill Race Marathon | 09/26/2020 | Marathon | | |
+| TBD | 2020 Air Force Marathon | 09/19/2020 | Marathon | | |
+| TBD | 2020 BQ.2 | 09/12/2020 | Marathon | | |
 | TBD | 2020 Dance with Dirt Gnaw Bone Marathon | 05/16/2020 | Marathon |  |  |
-| TBD (registered)| 2020 Spring Chance BQ.2 Marathon | 04/18/2020 | Marathon | | |
-| TBD (registered)| 2020 Milwaukee Marathon | 04/11/2020 | Marathon | | |
+| TBD | 2020 Flying Pig Marathon | 05/03/2020 | Marathon | | |
+| TBD | 2020 Spring Chance BQ.2 Marathon | 04/18/2020 | Marathon | | |
+| TBD | 2020 Milwaukee Marathon | 04/11/2020 | Marathon | | |
 | TBD (registered)| 2020 Carmel Marathon | 04/04/2020 | Marathon | | |
 | 112 (Full No. 66)| 2019 Monumental Marathon | 11/09/2019 | Marathon | 2:57:46 | 6:48 |
 | 111 | 2019 New York City Marathon | 11/03/2019 | Marathon | 3:05:01 | 7:04 |
