@@ -1,7 +1,9 @@
 
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
-| TBD | 2020 Jackson County Ultra-marathon Trail Run | 12/07/2020 | 50K |  |  |
+| TBD | 2020 Otter Creek Trail Maraton | 12/xx/2020 | Marathon |  |  |
+| TBD | 2020 Jackson County Ultra-marathon Trail Run | 12/xx/2020 | 50K |  |  |
+| TBD | 2020 Topo Trail Marathon | 12/xx/2020 | Marathon |  |  |
 | TBD | 2020 Monumental Marathon | 11/07/2020 | Marathon |  |  |
 | TBD | 2020 Tecumseh Trail Marathon | 10/2x/2020 | Marathon |  |  |
 | TBD (Tentative) | 2020 Chicago Marathon | 10/11/2020 | Marathon |  |  |
@@ -9,13 +11,16 @@
 | TBD | 2020 Air Force Marathon | 09/19/2020 | Marathon | | |
 | TBD | 2020 BQ.2 | 09/12/2020 | Marathon | | |
 | 108 | 2020 Beaver Chase Marathon | 08/xx/2020 | Marathon |  |  |
-| TBD | 2020 Eagle Creek Trail Marathon | 07/xx/2020 | Marathon |  |  |
+| TBD | 2020 Eagle Creek Trail Marathon | 08/01/2020 | Marathon |  |  |
+| TBD | 2020 Crossroads of Indiana | 05/xx/2020 | Marathon |  |  |
 | TBD | 2020 Dance with Dirt Gnaw Bone Marathon | 05/16/2020 | Marathon |  |  |
 | TBD | 2020 Flying Pig Marathon | 05/03/2020 | Marathon | | |
 | TBD | 2020 Spring Chance BQ.2 Marathon | 04/18/2020 | Marathon | | |
 | TBD | 2020 Milwaukee Marathon | 04/11/2020 | Marathon | | |
 | TBD (registered)| 2020 Carmel Marathon | 04/04/2020 | Marathon | | |
+| TBD | 2019 Otter Creek Trail Maraton | 12/xx/2019 | Marathon |  |  |
 | TBD (registered) | 2019 Jackson County Ultra-marathon Trail Run | 12/07/2019 | 50K |  |  |
+| TBD | 2019 Topo Trail Marathon | 12/01/2019 | Marathon |  |  |
 | 112 (Full No. 66)| 2019 Monumental Marathon | 11/09/2019 | Marathon | 2:57:46 | 6:48 |
 | 111 | 2019 New York City Marathon | 11/03/2019 | Marathon | 3:05:01 | 7:04 |
 | 110 | 2019 Mill Race Marathon | 09/28/2019 | Marathon | 3:17:06 | 7:32 |
