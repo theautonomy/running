@@ -18,9 +18,8 @@
 | TBD | 2020 Spring Chance BQ.2 Marathon | 04/18/2020 | Marathon | | |
 | TBD | 2020 Milwaukee Marathon | 04/11/2020 | Marathon | | |
 | TBD (registered)| 2020 Carmel Marathon | 04/04/2020 | Marathon | | |
-| TBD | 2019 Otter Creek Trail Maraton | 12/xx/2019 | Marathon |  |  |
+| TBD | 2019 Otter Creek Trail Marathon | 12/xx/2019 | Marathon |  |  |
 | TBD (registered) | 2019 Jackson County Ultra-marathon Trail Run | 12/07/2019 | 50K |  |  |
-| TBD | 2019 Topo Trail Marathon | 12/01/2019 | Marathon |  |  |
 | 112 (Full No. 66)| 2019 Monumental Marathon | 11/09/2019 | Marathon | 2:57:46 | 6:48 |
 | 111 | 2019 New York City Marathon | 11/03/2019 | Marathon | 3:05:01 | 7:04 |
 | 110 | 2019 Mill Race Marathon | 09/28/2019 | Marathon | 3:17:06 | 7:32 |
