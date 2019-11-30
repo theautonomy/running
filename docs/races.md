@@ -1,7 +1,7 @@
 
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
-| TBD | 2020 Otter Creek Trail Maraton | 12/xx/2020 | Marathon |  |  |
+| TBD | 2020 Otter Creek Trail Marathon | 12/xx/2020 | Marathon |  |  |
 | TBD | 2020 Jackson County Ultra-marathon Trail Run | 12/xx/2020 | 50K |  |  |
 | TBD | 2020 Topo Trail Marathon | 12/xx/2020 | Marathon |  |  |
 | TBD | 2020 Monumental Marathon | 11/07/2020 | Marathon |  |  |
