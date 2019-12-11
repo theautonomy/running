@@ -17,8 +17,8 @@
 | TBD | 2020 Dance with Dirt Gnaw Bone Marathon | 05/16/2020 | Marathon |  |  |
 | TBD | 2020 Flying Pig Marathon | 05/03/2020 | Marathon | | |
 | TBD | 2020 Spring Chance BQ.2 Marathon | 04/18/2020 | Marathon | | |
-| TBD | 2020 Milwaukee Marathon | 04/11/2020 | Marathon | | |
-| TBD (registered)| 2020 Carmel Marathon | 04/04/2020 | Marathon | | |
+| TBD (registered) | 2020 Milwaukee Marathon | 04/11/2020 | Marathon | | |
+| TBD (registered) | 2020 Carmel Marathon | 04/04/2020 | Marathon | | |
 | TBD | 2019 Otter Creek Trail Marathon | 12/xx/2019 | Marathon |  |  |
 | 113 (Full No. 67) | 2019 Jackson County Ultra-marathon Trail Run | 12/07/2019 | 50K | 6:45:18 | 12:57 |
 | 112 | 2019 Monumental Marathon | 11/09/2019 | Marathon | 2:57:46 | 6:48 |
