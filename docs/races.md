@@ -4,9 +4,10 @@
 | TBD | 2020 Otter Creek Trail Marathon | 12/xx/2020 | Marathon |  |  |
 | TBD | 2020 Jackson County Ultra-marathon Trail Run | 12/xx/2020 | 50K |  |  |
 | TBD | 2020 Topo Trail Marathon | 12/xx/2020 | Marathon |  |  |
+| TBD (registered) | 2020 California International Marathon | 12/06/2020 | Marathon |  |  |
 | TBD | 2020 Monumental Marathon | 11/07/2020 | Marathon |  |  |
 | TBD | 2020 Tecumseh Trail Marathon | 10/2x/2020 | Marathon |  |  |
-| TBD (Tentative) | 2020 Chicago Marathon | 10/11/2020 | Marathon |  |  |
+| TBD (registered) | 2020 Chicago Marathon | 10/11/2020 | Marathon |  |  |
 | TBD | 2020 Mill Race Marathon | 09/26/2020 | Marathon | | |
 | TBD | 2020 Air Force Marathon | 09/19/2020 | Marathon | | |
 | TBD | 2020 BQ.2 | 09/12/2020 | Marathon | | |
