@@ -3,7 +3,7 @@
 |--- |---  |--- |--- |--- |--- |
 | TBD | 2020 Otter Creek Trail Marathon | 12/xx/2020 | Marathon |  |  |
 | TBD | ~~2020 Jackson County Ultra-marathon Trail Run~~ | 12/07/2020 | 50K |  |  |
-| TBD | ~~2020 Topo Trail Marathon | 12/06/2020~~ | Marathon |  |  |
+| TBD | ~~2020 Topo Trail Marathon~~ | 12/06/2020 | Marathon |  |  |
 | TBD (registered) | 2020 California International Marathon | 12/06/2020 | Marathon |  |  |
 | TBD (registered) | 2020 Monumental Marathon | 11/07/2020 | Marathon |  |  |
 | TBD | 2020 Crossroads of Indiana| 10/25/2020 | Marathon |  |  |
@@ -11,7 +11,7 @@
 | TBD (registered) | 2020 Chicago Marathon | 10/11/2020 | Marathon |  |  |
 | TBD | 2020 Mill Race Marathon (sign up before 06/30/2020)| 09/26/2020 | Marathon | | |
 | TBD | ~~2020 Air Force Marathon~~ | 09/19/2020 | Marathon | | |
-| TBD | 2020 BQ.2 (sign up before 04/30/2020)| 09/12/2020 | Marathon | | |
+| TBD | ~~2020 BQ.2 (sign up before 04/30/2020)~~| 09/12/2020 | Marathon | | |
 | TBD (registered) | 2020 Beaver Chase Marathon | 08/08/2020 | Marathon |  |  |
 | TBD | 2020 Eagle Creek Trail Marathon | 08/01/2020 | Marathon |  |  |
 | TBD (registered) | ~~2020 Dance with Dirt Gnaw Bone Marathon~~ | 05/16/2020 | Marathon |  |  |
