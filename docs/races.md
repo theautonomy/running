@@ -1,24 +1,18 @@
 
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
+| TBD (registered) | 2021 Dance with Dirt Gnaw Bone Marathon | 05/1x/202 | Marathon |  |  |
 | TBD | 2020 Otter Creek Trail Marathon | 12/xx/2020 | Marathon |  |  |
 | TBD | ~~2020 Jackson County Ultra-marathon Trail Run~~ | 12/07/2020 | 50K |  |  |
 | TBD | ~~2020 Topo Trail Marathon~~ | 12/06/2020 | Marathon |  |  |
 | TBD (registered) | 2020 California International Marathon | 12/06/2020 | Marathon |  |  |
 | TBD (registered) | 2020 Monumental Marathon | 11/07/2020 | Marathon |  |  |
-| TBD | 2020 Crossroads of Indiana| 10/25/2020 | Marathon |  |  |
-| TBD | ~~2020 Tecumseh Trail Marathon~~ | 10/24/2020 | Marathon |  |  |
+| TBD (registered) | 2020 Crossroads of Indiana| 10/25/2020 | Marathon |  |  |
 | TBD (registered) | 2020 Chicago Marathon | 10/11/2020 | Marathon |  |  |
-| TBD | 2020 Mill Race Marathon (registered) | 09/26/2020 | Marathon | | |
-| TBD | ~~2020 Air Force Marathon~~ | 09/19/2020 | Marathon | | |
+| TBD (registered) | 2020 Mill Race Marathon | 09/26/2020 | Marathon | | |
 | TBD | ~~2020 BQ.2 (sign up before 04/30/2020)~~| 09/12/2020 | Marathon | | |
 | 115 (registered) | 2020 Beaver Chase Marathon | 08/08/2020 | Marathon |  |  |
 | 114 (registered) | 2020 Eagle Creek Trail Marathon | 08/01/2020 | Marathon |  |  |
-| TBD (registered) | ~~2020 Dance with Dirt Gnaw Bone Marathon~~ | 05/16/2020 | Marathon |  |  |
-| TBD | ~~2020 Flying Pig Marathon (sign up before 01/31/2020)~~| 05/03/2020 | Marathon | | |
-| TBD | ~~2020 Spring Chance BQ.2 Marathon (sign up before 03/31/2020)~~ | 04/18/2020 | Marathon | | |
-| TBD (registered) | ~~2020 Milwaukee Marathon~~ | 04/11/2020 | Marathon | | |
-| TBD (registered) | ~~2020 Carmel Marathon~~ | 04/04/2020 | Marathon | | |
 | 113 (Full No. 67) | 2019 Jackson County Ultra-marathon Trail Run | 12/07/2019 | 50K | 6:45:18 | 12:57 |
 | 112 | 2019 Monumental Marathon | 11/09/2019 | Marathon | 2:57:46 | 6:48 |
 | 111 | 2019 New York City Marathon | 11/03/2019 | Marathon | 3:05:01 | 7:04 |
