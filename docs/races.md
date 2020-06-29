@@ -10,6 +10,7 @@
 | TBD (registered) | 2020 Crossroads of Indiana| 10/25/2020 | Marathon |  |  |
 | TBD (registered) | 2020 Chicago Marathon | 10/11/2020 | Marathon |  |  |
 | TBD (registered) | ~~2020 Mill Race Marathon~~ | 09/26/2020 | Marathon | | |
+| 116 (registered) | 2020 Fair on the Square Marathon | 09/12/2020 | Marathon |  |  |
 | 115 (registered) | 2020 Beaver Chase Marathon | 08/08/2020 | Marathon |  |  |
 | 114 (registered) | 2020 Eagle Creek Trail Marathon | 08/01/2020 | Marathon |  |  |
 | 113 (Full No. 67) | 2019 Jackson County Ultra-marathon Trail Run | 12/07/2019 | 50K | 6:45:18 | 12:57 |
