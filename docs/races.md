@@ -1,50 +1,40 @@
 
 | No. | Name | Date | Distance | Finish Time | Pace |
 |--- |---  |--- |--- |--- |--- |
-| TBD (registered) | 2021 Dance with Dirt Gnaw Bone Marathon | 05/1x/202 | Marathon |  |  |
-| TBD | 2020 Otter Creek Trail Marathon | 12/xx/2020 | Marathon |  |  |
-| TBD | ~~2020 Jackson County Ultra-marathon Trail Run~~ | 12/07/2020 | 50K |  |  |
-| TBD | ~~2020 Topo Trail Marathon~~ | 12/06/2020 | Marathon |  |  |
-| TBD (registered) | 2020 California International Marathon | 12/06/2020 | Marathon |  |  |
-| TBD (requested refund) | ~~2020 Monumental Marathon~~ | 11/07/2020 | Marathon |  |  |
-| TBD (registered) | 2020 Crossroads of Indiana| 10/25/2020 | Marathon |  |  |
-| TBD (to request refund) | ~~2020 Chicago Marathon~~ | 10/11/2020 | Marathon |  |  |
-| TBD (to request refund) | ~~2020 Mill Race Marathon~~ | 09/26/2020 | Marathon | | |
-| 116 (registered) | 2020 Fair on the Square Marathon | 09/12/2020 | Marathon |  |  |
-| 115 (registered) | 2020 Beaver Chase Marathon | 08/08/2020 | Marathon |  |  |
-| 114 (registered) | 2020 Eagle Creek Trail Marathon | 08/01/2020 | Marathon |  |  |
-| 113 (Full No. 67) | 2019 Jackson County Ultra-marathon Trail Run | 12/07/2019 | 50K | 6:45:18 | 12:57 |
-| 112 | 2019 Monumental Marathon | 11/09/2019 | Marathon | 2:57:46 | 6:48 |
-| 111 | 2019 New York City Marathon | 11/03/2019 | Marathon | 3:05:01 | 7:04 |
-| 110 | 2019 Mill Race Marathon | 09/28/2019 | Marathon | 3:17:06 | 7:32 |
-| 109 | 2019 BQ.2 | 09/14/2019 | Marathon | 3:11:33 | 7:19 |
-| 108 | 2019 Beaver Chase Marathon | 08/10/2019 | Marathon | 3:54:51 | 8:58 |
-| 107 | 2019 Dance with Dirt Gnaw Bone Marathon | 05/18/2019 | Marathon | 6:14:03 | 14:16 |
-| 106 (Half No. 25)| OneAmerica 500 Festival Mini-Marathon 2019 Half Marathon | 05/04/2019 | Half Marathon | 1:55:57 | 8:50 |
-| 105 | 2019 Carmel Marathon | 03/30/2019 | Marathon | 3:49:25 | 8:46 |
-| 104 | 2018 Jackson County Ultra-marathon Trail Run | 12/01/2018 | 50K | 8:39:35 | 16:30 |
-| 103 | 2018 Shanghai Marathon | 11/18/2018 | Marathon | 4:07:55 | 9:28 |
-| 102 | 2018 Tecumseh Trail Marathon | 10/27/2018 | Marathon | 7:20:00 | 16:48 |
-| 101 | 2018 Indiana Trail | 10/13/2018 | 100K | 17:10:59 | 16:37 |
-| 100 | 2018 Mill Race Marathon | 09/22/2018 | Marathon | 3:19:07 | 7:36 |
-| 99 | 2018 BQ.2 | 09/08/2018 | Marathon | 3:09:41 | 7:15 |
-| 98 | 2018 Boston Marathon | 04/16/2018 | Marathon | 3:45:30 | 8:37 |
-| 97 | 2018 Carmel Marathon | 03/31/2018 | Marathon | 3:45:00 | 8:36 |
-| 96 | 2018 Indy Runners Sam Costa Half Marathon | 03/24/2018 | Half Marathon | 1:35:52 | 7:20 |
-| 95 | 2017 Jackson County Ultra-marathon Trail Run | 12/02/2017 | 50 M | 13:39:01 | 16:22 |
-| 94 | 2017 Monumental Marathon | 11/04/2017 | Marathon | 4:03:55 | 9:19 |
-| 93 | 2017 Beijing Marathon | 09/17/2017 | Marathon | 4:57:00 | 11:20 |
-| 92 | 2017 BQ.2 | 09/09/2017 | Marathon | 3:18:12 | 7:34 |
-| 91 | 2017 Eagle Creek Trail Marathon | 07/29/2017 | Marathon | 4:28:17 | 10:14 |
-| 90 | 2017 Indiana Trail | 04/29/2017 | 50 Miles | 11:22:37 | 13:31 |
-| 89 | 2017 Carmel Marathon | 04/22/2017 | Marathon | 4:08:57 | 9:31 |
-| 88 | 2017 Boston Marathon | 04/17/2017 | Marathon | 3:38:25 | 8:20 |
-| 86 | 2017 Indy Runners Sam Costa Half Marathon | 03/25/2017 | Half Marathon | 1:42:12 | 7:49 |
-| 85 | 2016 Monumental Marathon | 11/05/2016 | Marathon | 5:35:00 | 12:48 |
-| 84 | 2016 Twin Cities Marathon | 10/09/2016 | Marathon | 3:54:28 | 8:57 |
-| 83 | 2016 Mill Race Marathon | 09/24/2016 | Marathon | 3:56:36 | 9:02 |
-| 82 | 2016 Eagle Creek Trail Marathon | 07/30/2016 | Marathon | 5:01:55 | 11:30 |
-| 81 | 2016 8-Hour Dream Endurance Race | 07/23/2016 | 8 hours run | DNF. Ran 19.3 miles in 4 hours ||
+| 114 (registered) | 2019 Monumental Marathon | 11/06/2021 | Marathon |  |  |
+| 113 (full 69) | 2021 Boston Marathon | 10/11/2021| Marathon | 4:08:40 | 9:29  |
+| 112 | 2021 Carmel Marathon | 04/03/2021 | Marathon | 3:50:57 | 8:49 |
+| 111 | 2019 Jackson County Ultra-marathon Trail Run | 12/07/2019 | 50K | 6:45:18 | 12:57 |
+| 110 | 2019 Monumental Marathon | 11/09/2019 | Marathon | 2:57:46 | 6:48 |
+| 109 | 2019 New York City Marathon | 11/03/2019 | Marathon | 3:05:01 | 7:04 |
+| 108 | 2019 Mill Race Marathon | 09/28/2019 | Marathon | 3:17:06 | 7:32 |
+| 107 | 2019 BQ.2 | 09/14/2019 | Marathon | 3:11:33 | 7:19 |
+| 106 | 2019 Beaver Chase Marathon | 08/10/2019 | Marathon | 3:54:51 | 8:58 |
+| 105 | 2019 Dance with Dirt Gnaw Bone Marathon | 05/18/2019 | Marathon | 6:14:03 | 14:16 |
+| 104 (Half No. 25)| OneAmerica 500 Festival Mini-Marathon 2019 Half Marathon | 05/04/2019 | Half Marathon | 1:55:57 | 8:50 |
+| 103 | 2019 Carmel Marathon | 03/30/2019 | Marathon | 3:49:25 | 8:46 |
+| 102 | 2018 Jackson County Ultra-marathon Trail Run | 12/01/2018 | 50K | 8:39:35 | 16:30 |
+| 101 | 2018 Shanghai Marathon | 11/18/2018 | Marathon | 4:07:55 | 9:28 |
+| 100 | 2018 Tecumseh Trail Marathon | 10/27/2018 | Marathon | 7:20:00 | 16:48 |
+| 99 | 2018 Indiana Trail | 10/13/2018 | 100K | 17:10:59 | 16:37 |
+| 98 | 2018 Mill Race Marathon | 09/22/2018 | Marathon | 3:19:07 | 7:36 |
+| 97 | 2018 BQ.2 | 09/08/2018 | Marathon | 3:09:41 | 7:15 |
+| 96 | 2018 Boston Marathon | 04/16/2018 | Marathon | 3:45:30 | 8:37 |
+| 95 | 2018 Carmel Marathon | 03/31/2018 | Marathon | 3:45:00 | 8:36 |
+| 94 | 2018 Indy Runners Sam Costa Half Marathon | 03/24/2018 | Half Marathon | 1:35:52 | 7:20 |
+| 93 | 2017 Jackson County Ultra-marathon Trail Run | 12/02/2017 | 50 M | 13:39:01 | 16:22 |
+| 92 | 2017 Monumental Marathon | 11/04/2017 | Marathon | 4:03:55 | 9:19 |
+| 91 | 2017 Beijing Marathon | 09/17/2017 | Marathon | 4:57:00 | 11:20 |
+| 90 | 2017 BQ.2 | 09/09/2017 | Marathon | 3:18:12 | 7:34 |
+| 89 | 2017 Eagle Creek Trail Marathon | 07/29/2017 | Marathon | 4:28:17 | 10:14 |
+| 88 | 2017 Indiana Trail | 04/29/2017 | 50 Miles | 11:22:37 | 13:31 |
+| 87 | 2017 Carmel Marathon | 04/22/2017 | Marathon | 4:08:57 | 9:31 |
+| 86 | 2017 Boston Marathon | 04/17/2017 | Marathon | 3:38:25 | 8:20 |
+| 85 | 2017 Indy Runners Sam Costa Half Marathon | 03/25/2017 | Half Marathon | 1:42:12 | 7:49 |
+| 84 | 2016 Monumental Marathon | 11/05/2016 | Marathon | 5:35:00 | 12:48 |
+| 83 | 2016 Twin Cities Marathon | 10/09/2016 | Marathon | 3:54:28 | 8:57 |
+| 82 | 2016 Mill Race Marathon | 09/24/2016 | Marathon | 3:56:36 | 9:02 |
+| 81 | 2016 Eagle Creek Trail Marathon | 07/30/2016 | Marathon | 5:01:55 | 11:30 |
 | 80 | 2016 Summer Night Trail Marathon | 06/04/2016 | Marathon | 5:35:13 | 12:47 |
 | 79 | 2016 Carmel Marathon | 04/16/2016 | Marathon | 4:22:30 | 10:02 |
 | 78 | 2016 Indy Runners Sam Costa Half Marathon | 03/19/2016 | Half Marathon | 2:07:51 | 9:46 |
